@@ -1,0 +1,15 @@
+{
+    "author": "Mohammad hosein shoghi",
+    "name": "mhsh_ecommerce_store",
+    "description": "a web store",
+    "version": "0.0.1",
+    "repository": {},
+    "readme": "",
+    "license": "",
+    "private": true,
+
+    "dependencies": {
+        "gulp": "~3.9",
+        "laravel-elixir": "~5.0.0"
+    }
+}

@@ -1,0 +1,12 @@
+// font
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600&display=swap');
+
+@import "../bower/vendor/foundation-sites/assets/foundation.scss";
+
+@import "../bower/vendor/motion-ui/src/motion-ui.scss";
+
+@include motion-ui-transitions;
+
+@include motion-ui-animations;
+

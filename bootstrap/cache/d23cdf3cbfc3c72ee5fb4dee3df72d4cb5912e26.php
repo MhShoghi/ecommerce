@@ -1,0 +1,1 @@
+<?php /**PATH E:\php-project\project1_ecommerce\resources\views/errors/404.blade.php ENDPATH**/ ?>
